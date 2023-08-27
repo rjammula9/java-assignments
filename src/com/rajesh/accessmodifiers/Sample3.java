@@ -1,6 +1,5 @@
 package com.rajesh.accessmodifiers;
 
-import cam.rajesh.accessmodifiers.Sample1;
 
 public class Sample3 extends Sample1 {
 	public static void main(String[] args) {
